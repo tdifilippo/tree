@@ -1,0 +1,17 @@
+Hi,
+
+This zip file contains:
+
+    tree_data.py - contains the solution to the Candidate Evaluation Assignment
+    
+    Usage:
+        python tree_data.py [-h] [-f FILE]
+        python tree_data.py : This runs the default, using the data.txt file, you can substitute another
+            file the -f option
+        
+This was run on the Python that I have on my home Windows PC (2.7.10)
+
+Thanks, I hope to get feedback from you soon.
+
+Regards,
+Tom DiFilippo
